@@ -21,3 +21,11 @@ p {
   background-image: url('../images/the-flatiron-building.png');
   color: white;
 }
+.footer {
+  background-color: dimgray;
+  color: white;
+  text-align: left;
+}
+#footer {
+  font-weight: 11px;
+}
