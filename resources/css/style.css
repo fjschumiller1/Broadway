@@ -19,6 +19,10 @@ p {
 }
 .heading {
   background-image: url('../images/the-flatiron-building.png');
+  background-position: 50%;
+  color: white;
+}
+.nav {
   color: white;
 }
 .footer {
